@@ -24,9 +24,8 @@ no half-finished betas dressed up as products.
 ## Who's behind it
 
 I'm **Aksel Visby** — an MSP technician and hobby developer, building this with
-my ever-patient AI sidekick, **Claude**. I bring the real-world MSP scars (and
-the questionable ideas); Claude brings the typing speed and the patience to
-refactor them into something that actually works.
+my sidekick, **Claude**. I bring the real-world MSP scars, and together we bring
+code scribbles and patch solutions to life.
 
 ContinuMail is the home for the utilities I kept wishing existed in the middle
 of real jobs: mailbox migrations, archive conversions, one-off scripts that
