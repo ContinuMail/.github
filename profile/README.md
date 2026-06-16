@@ -23,11 +23,15 @@ no half-finished betas dressed up as products.
 
 ## Who's behind it
 
-I'm **Aksel Visby** — a solo developer and MSP technician. ContinuMail is the
-home for the utilities I kept wishing existed in the middle of real jobs:
-mailbox migrations, archive conversions, one-off scripts that became
-something worth keeping. Rather than letting them rot in a scratch folder,
-I'm cleaning them up and releasing them here, one at a time.
+I'm **Aksel Visby** — an MSP technician and hobby developer, building this with
+my ever-patient AI sidekick, **Claude**. I bring the real-world MSP scars (and
+the questionable ideas); Claude brings the typing speed and the patience to
+refactor them into something that actually works.
+
+ContinuMail is the home for the utilities I kept wishing existed in the middle
+of real jobs: mailbox migrations, archive conversions, one-off scripts that
+became something worth keeping. Rather than letting them rot in a scratch
+folder, I'm cleaning them up and releasing them here, one at a time.
 
 ## The vision
 
@@ -60,5 +64,5 @@ gradually as each one earns its release.*
 ---
 
 <div align="center">
-<sub>ContinuMail — built and maintained by Aksel Visby.</sub>
+<sub>ContinuMail — built and maintained by Aksel Visby (with a lot of help from Claude).</sub>
 </div>
