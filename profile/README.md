@@ -63,5 +63,5 @@ gradually as each one earns its release.*
 ---
 
 <div align="center">
-<sub>ContinuMail — built and maintained by Aksel Visby (with a lot of help from Claude).</sub>
+<sub>ContinuMail — built and maintained by Aksel Visby.</sub>
 </div>
